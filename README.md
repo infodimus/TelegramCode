@@ -11,4 +11,5 @@ Go to your channel’s “Info” > “Administrators” > “Add Administrator�
 Search for your bot by username and add it.
 
 Step 3: Install the pyTelegramBotAPI Library
+
 pip install pyTelegramBotAPI
