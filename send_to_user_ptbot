@@ -1,4 +1,4 @@
-# do not worget to install module telegram:
+# do not forget to install module telegram:
 # pip3 install python-telegram-bot
 # see https://docs.python-telegram-bot.org/en/v21.4/
 # and https://psujit775.medium.com/ihow-to-send-telegram-message-with-python-e826b94f1d9b
