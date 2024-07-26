@@ -1,3 +1,6 @@
+# Do not forget
+# pip install pyTelegramBotAPI
+
 import telebot
 
 def send_message_to_channel(token, channel_name, message):
