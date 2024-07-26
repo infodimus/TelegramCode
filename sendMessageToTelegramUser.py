@@ -1,3 +1,6 @@
+# Do not forget
+# pip install pyTelegramBotAPI
+
 import telebot
 
 bot_token = 'my bot token 3264324286428323457qqq'  # Replace with your Telegram bot's token
